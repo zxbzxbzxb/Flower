@@ -1,4 +1,4 @@
-package com.sanrenzu.flower;
+package com.sanrenzu.flower.activity;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -12,6 +12,7 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Button;
 
+import com.sanrenzu.flower.R;
 import com.sanrenzu.flower.fragment.FenleiFragment;
 import com.sanrenzu.flower.fragment.GouwucheFragment;
 import com.sanrenzu.flower.fragment.ShouyeFragment;
