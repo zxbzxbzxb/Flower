@@ -49,6 +49,7 @@ public class MainActivity extends AppCompatActivity {
         initFragment();
 
         selectFragment(SELECTED_SHOUYE);
+        //第三次第三次第三次第三次
     }
 
     private void initView() {
